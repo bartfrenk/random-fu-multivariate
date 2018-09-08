@@ -10,7 +10,6 @@
 -- the chart below shows samples from the bivariate normal
 -- distribution.
 --
--- <<diagrams/src_Data_Random_Distribution_MultivariateNormal_diagM.svg#diagram=diagM&height=600&width=500>>
 --
 -- Example code to generate the chart:
 --
